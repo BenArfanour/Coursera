@@ -34,3 +34,21 @@ address {
     margin: Opx;
     color: #0F0F0F;
 }
+
+p {
+  font-weight: 600 ; 
+  font-size: 80%;
+
+}
+
+body {
+    padding: 50px 0px 0px 0px ;
+    z-index: 0 ;
+}
+
+.navbar-dark {
+
+    background-color: #512DA8 ;
+
+}
+
